@@ -1,5 +1,7 @@
 # React Counter Comparison
 
+[![Presentation](https://img.shields.io/badge/View-Presentation-blue?style=for-the-badge)](https://www.canva.com/design/DAGjrXA2YYM/gg8WoVO_Exo98DqLlCefag/view?utm_content=DAGjrXA2YYM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd905370691)
+
 A demonstration project comparing different state management approaches in React, specifically focusing on React's built-in `useState` hook versus Signals-based state management.
 
 ## Overview
